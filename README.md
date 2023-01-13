@@ -17,7 +17,7 @@
 ## :sassy_man:  About me
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `LeetCode`
-- :Work: I’m currently working for: `Twerlo`
+- :computer: I’m currently working for: `Twerlo`
 - :nerd_face: Always `learning new things`
 
 <br>
