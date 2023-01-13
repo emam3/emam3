@@ -6,13 +6,13 @@
 
 <br>
 
-<p align="center"> 
+<!-- <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0e75b6&style=plastic" alt="7oSkaaa" /> 
 	<a href = "https://commits.top/egypt.html" target="_blank">
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank"/> 
 	</a>
 </p>
-
+ -->
 
 ## :sassy_man:  About me
 - :technologist: I love using Software as a solution for every `Problem`
@@ -78,6 +78,26 @@
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  </a>
+</p>
+
+### 👉 Backend Development
+<p align="center"> 
+  &emsp; 
+  <a href="" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="" target="_blank">
+    <img alt="REACTJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/php/" target="_blank">
+    <img alt="ANGULAR" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   </a>
 </p>
 
